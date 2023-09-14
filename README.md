@@ -4,7 +4,7 @@ Various Python Simulations
 ## Dielectric_Breakdown.ipynb
 A simulation of the dielectric breakdown model described in:
 _Fractal Dimension of Dielectric Breakdown, L. Niemeyer, L. Pietronero, ' and H. J. Wiesmann Brown Boveri Research Center, CH-5405 Baden, Switzerland_
-![](/images/db_patterns2.png=400x400)
+<img src="/images/db_patterns2.png" alt="" width=4200"/>
 
 
 ## Statistical_Approach_2nd_law.ipynb
