@@ -17,3 +17,9 @@ _A statistical approach to the second law of thermodynamics using a computer sim
 Video:
 https://github.com/profConradi/Python_Simulations/assets/17752153/ed271bf7-6b1f-4b6a-a19d-0993bc7264fa
 
+
+## DLA_numpy_diffusionCA.ipynb
+A simulation of Diffusion Limited Aggregation using a numpy vectorized in which particles diffusion is simulated by a block cellular automata.
+
+<img src="/images/dla_fast_2.png" width="500"/>
+
