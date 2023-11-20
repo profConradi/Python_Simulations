@@ -19,7 +19,7 @@ https://github.com/profConradi/Python_Simulations/assets/17752153/ed271bf7-6b1f-
 
 
 ## DLA_numpy_diffusionCA.ipynb
-A simulation of Diffusion Limited Aggregation using a numpy vectorized in which particles diffusion is simulated by a block cellular automata.
+A simulation of Diffusion Limited Aggregation using a numpy vectorized approach and in which particles diffusion is simulated using a 2x2 block cellular automata.
 
 <img src="/images/dla_fast_2.png" width="500"/>
 
