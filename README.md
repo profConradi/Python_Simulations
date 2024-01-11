@@ -26,5 +26,5 @@ A simulation of Diffusion Limited Aggregation using a numpy vectorized approach 
 ## Feigenbaum-Cvitanović_function_on_ℂ.ipynb
 Plotting the numerical solution to the Feigenbaum-Cvitanović functional equation in the complex plane.  
 
-<img src="/images/feigenbaum-cvitanović_function.jpeg" width="500"/>
+<img src="/images/feigenbaum-cvitanovic_function.jpeg" width="500"/>
 
