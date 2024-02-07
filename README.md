@@ -28,3 +28,8 @@ Plotting the numerical solution to the Feigenbaum-Cvitanović functional equatio
 
 <img src="/images/feigenbaum-cvitanovic_function.jpeg" width="500"/>
 
+
+## Nice_orbits.ipynb
+Plotting nice orbits of a 2d dynamical system  
+
+<img src="/images/popart_546_455.png" width="500"/>
