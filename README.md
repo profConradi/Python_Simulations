@@ -1,6 +1,16 @@
 # Python_Simulations
 Various Python Simulations
 
+## Bak–Tang–Wiesenfeld_model.ipynb
+A simulation of the Bak–Tang–Wiesenfeld model model described in:
+_Self-organized criticality: An explanation of the 1/f noise, Per Bak, Chao Tang, and Kurt Wiesenfeld Phys. Rev. Lett. 59, 381 – Published 27 July 1987_
+
+https://github.com/profConradi/Python_Simulations/assets/17752153/88ea1823-d70b-4a8d-89e6-0de61b30d2d5
+
+
+
+
+
 ## Dielectric_Breakdown.ipynb
 A simulation of the dielectric breakdown model described in:
 _Fractal Dimension of Dielectric Breakdown, L. Niemeyer, L. Pietronero, ' and H. J. Wiesmann Brown Boveri Research Center, CH-5405 Baden, Switzerland_
